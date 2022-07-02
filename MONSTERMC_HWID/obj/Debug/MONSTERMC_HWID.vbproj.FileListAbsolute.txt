@@ -1,0 +1,23 @@
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\bin\Debug\MONSTERMC HWID.exe.config
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\bin\Debug\MONSTERMC HWID.exe
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\bin\Debug\MONSTERMC HWID.pdb
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\bin\Debug\MONSTERMC HWID.xml
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC_HWID.Form1.resources
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC_HWID.Resources.resources
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC_HWID.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC_HWID.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC HWID.exe
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC HWID.xml
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\Quartus_HWID\obj\Debug\MONSTERMC HWID.pdb
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\bin\Debug\MONSTERMC DEVICE INFOS ID.exe.config
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\bin\Debug\MONSTERMC DEVICE INFOS ID.exe
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\bin\Debug\MONSTERMC DEVICE INFOS ID.pdb
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\bin\Debug\MONSTERMC DEVICE INFOS ID.xml
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC_HWID.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC_HWID.Form1.resources
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC_HWID.Resources.resources
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC_HWID.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC_HWID.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC DEVICE INFOS ID.exe
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC DEVICE INFOS ID.xml
+C:\Users\MONSTERMC\Downloads\Quartus_HWID-master\Quartus_HWID-master\MONSTERMC_HWID\obj\Debug\MONSTERMC DEVICE INFOS ID.pdb
